@@ -14,7 +14,12 @@ results
 npm-debug.log
 node_modules
 
+# For phonegap
 dist
+platforms
+www
+!www/config.xml
+!www/res
 .tmp
 .sass-cache
 app/bower_components

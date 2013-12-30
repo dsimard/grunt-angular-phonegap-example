@@ -22,5 +22,8 @@ and copy the added lines in your clipboard to paste later. Then press `n` for no
 
 # Step 4
 
-Add `grunt-angular-phonegap` to the app :
+Add `grunt-angular-phonegap` to the app : 350c8777a79571cc140ab5c860c86f12ec943348
 
+# Step 5
+
+Load npm tasks (`grunt.loadNpmTasks("grunt-angular-phonegap");`) :
