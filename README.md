@@ -26,4 +26,20 @@ Add `grunt-angular-phonegap` to the app : 350c8777a79571cc140ab5c860c86f12ec9433
 
 # Step 5
 
-Load npm tasks (`grunt.loadNpmTasks("grunt-angular-phonegap");`) :
+Load npm tasks (`grunt.loadNpmTasks("grunt-angular-phonegap");`) : 084309dad20b8e249a74e84bfdc0c4fb7fb931bc
+
+# Step 6
+
+Add a platform : `cordova platform add [platform]` (no commit)
+
+# Step 7
+
+`grunt phonegap:check` (no commit)
+
+# Step 8
+
+`grunt phonegap:build`
+
+# Step 9
+
+`grunt phonegap:emulate`
