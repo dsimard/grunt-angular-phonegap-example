@@ -16,7 +16,7 @@ node_modules
 
 # For phonegap
 dist
-platforms
+platforms/**/
 www
 !www/config.xml
 !www/res
