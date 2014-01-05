@@ -7,27 +7,27 @@ An example project with dsimard/grunt-angular-phonegap
 
 1. Clone this project
 
-    git clone https://github.com/dsimard/grunt-angular-phonegap-example.git && cd grunt-angular-phonegap-example/ 
+        git clone https://github.com/dsimard/grunt-angular-phonegap-example.git && cd grunt-angular-phonegap-example/ 
 
 2. Install npm modules
 
-    npm install
+        npm install
 
 3. Install bower dependencies
 
-    bower install
+        bower install
 
 4. Add a mobile platform
 
-    cordova platform add android
+        cordova platform add android
 
 4. Build the project
 
-    grunt phonegap:build
+        grunt phonegap:build
 
 5. Start an emulator
 
-    grunt phonegap:emulate
+        grunt phonegap:emulate
 
 
 ## Commits
